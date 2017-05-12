@@ -1,0 +1,18 @@
+.main-picture::before{
+	content: "Read this: ";
+	text-align: center;
+    display:block;
+	
+	}
+	.main-picture img{
+		
+		margin-top:50px;
+		margin-bottom:50px;
+		
+	}
+	
+	margin-picture h1{
+	
+	
+	}
+	
